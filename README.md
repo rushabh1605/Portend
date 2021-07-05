@@ -45,14 +45,6 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, Yug Thakkar and Shub
 - util.py                        - Getting different types of data and returning dataframe that determines and helps us to train our model for RUL
 - RUL_Battery_Prediction.ipynb   - Loading dataset and training various models and selecting best one for deployment
 
-> **Tech Stack Used :-**
-
-    TensorFlow Lite
-
-    Android Studio (java)
-
-    Google maps(URL based) API
-
 
 > **Presentation:** [T40](https://github.com/rushabh1605/Portend/blob/main/T40.pptx)
 
