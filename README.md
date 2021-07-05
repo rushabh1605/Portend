@@ -13,7 +13,7 @@ Our college name: Pandit Deendayal Energy University(PDEU)
 Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, Yug Thakkar and Shubham Vyas
 
 
-**Problem Definition :**
+### **Problem Definition :**
 
 > Most electric vehicles use lithium-ion batteries as energy storage system. As this battery technology shows degradation during service life, lifetime analyses are of interest to understand aging phenomena and to optimize batteries and their operation.
 
