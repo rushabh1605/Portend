@@ -23,6 +23,8 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, Yug Thakkar and Shub
 
 ### **Our Approach / Solution :**
 
+> <img src="https://github.com/rushabh1605/Portend/blob/main/flowchart/flowchart_3.png" >
+
     ML model:
               1. Dataset link : https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T.
               2. We segregated the datasets of harvard in different folders according to the classes. 
