@@ -21,7 +21,7 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, Yug Thakkar and Shub
 
 
 
-> **Our Approach :**
+### **Our Approach / Solution :**
 
     ML model:
               1. Dataset link : https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T.
