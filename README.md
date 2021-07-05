@@ -56,8 +56,6 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, Yug Thakkar and Shub
 
 > **Presentation:** [T40](https://github.com/rushabh1605/Portend/blob/main/T40.pptx)
 
-> **APK file:** [Link to APK File](https://drive.google.com/file/d/10DnwVU_na934VCRcrFEpBOYV6pfqOaVp/view?usp=sharing)
-
 
 > **Profiles of team member:** 
 
